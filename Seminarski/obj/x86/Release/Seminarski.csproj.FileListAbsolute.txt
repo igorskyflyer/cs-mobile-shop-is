@@ -1,0 +1,17 @@
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\obj\x86\Release\Seminarski.ControlPanel.resources
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\obj\x86\Release\Seminarski.FormLogin.resources
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\obj\x86\Release\Seminarski.Properties.Resources.resources
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\obj\x86\Release\Seminarski.csproj.GenerateResource.Cache
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\bin\Release\Seminarski.exe
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\bin\Release\Seminarski.pdb
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\obj\x86\Release\Seminarski.exe
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\Seminarski\obj\x86\Release\Seminarski.pdb
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\bin\Release\Seminarski.exe
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\bin\Release\Seminarski.pdb
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.ControlPanel.resources
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.FormLogin.resources
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.Properties.Resources.resources
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.csproj.GenerateResource.Cache
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.exe
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.pdb
+D:\ftn\iii-godina\v-semestar\oop\seminarski\Seminarski\obj\x86\Release\Seminarski.About.resources
